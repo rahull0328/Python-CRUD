@@ -21,7 +21,7 @@ Welcome to the **Python-CRUD** repository! This project showcases a comprehensiv
 
 ## 🛠️ Technologies Used
 - **Python 3.x**
-- **MySQ** for database management.
+- **MySQL** for database management.
 - **Tkinter** for GUI development.
 
 ---
